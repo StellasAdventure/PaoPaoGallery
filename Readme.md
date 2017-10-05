@@ -1,6 +1,6 @@
 本项目为使用React打造图片画廊实践案例
 
-[点我进入实例](http://darkwing.oschina.io/gallery-by-react/)
+[点我进入实例](http://www.dark-wing.com/2017/09/17/Gallery-by-React/)
 
 依赖文件
 >"autoprefixer": "^7.1.4",
